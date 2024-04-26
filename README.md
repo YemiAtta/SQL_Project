@@ -1,8 +1,11 @@
 # SQL_Project
 
-Basic query functions for data extraction
+Welcome to my awesome project! 🚀
 
-Data Extraction and Product Management Project
+## Features 
+
+
+Data Extraction and Product Management Project🔧
 
 This GitHub repository contains scripts and tools for data extraction, customer sorting, and product management tasks using SQL queries. The project aims to streamline data analysis and product pricing operations within a database environment.
 
@@ -15,3 +18,5 @@ Identify and display the oldest customer based on birthdate.
 Product Management:
 Add discounts to products based on specific criteria.
 Update unit prices of products to reflect changes in pricing strategies.
+
+Also a slight touch of humour on the world database project. ✨Feel free to leave a comment 😄
